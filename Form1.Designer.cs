@@ -35,11 +35,11 @@
             // btnGO
             // 
             this.btnGO.Font = new System.Drawing.Font("微軟正黑體", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.btnGO.Location = new System.Drawing.Point(600, 151);
+            this.btnGO.Location = new System.Drawing.Point(538, 151);
             this.btnGO.Name = "btnGO";
-            this.btnGO.Size = new System.Drawing.Size(188, 112);
+            this.btnGO.Size = new System.Drawing.Size(228, 112);
             this.btnGO.TabIndex = 0;
-            this.btnGO.Text = "按鈕";
+            this.btnGO.Text = "按下去";
             this.btnGO.UseVisualStyleBackColor = true;
             this.btnGO.Click += new System.EventHandler(this.btnGO_Click);
             // 
@@ -49,7 +49,7 @@
             this.txtSHOW.Location = new System.Drawing.Point(3, 151);
             this.txtSHOW.Multiline = true;
             this.txtSHOW.Name = "txtSHOW";
-            this.txtSHOW.Size = new System.Drawing.Size(584, 112);
+            this.txtSHOW.Size = new System.Drawing.Size(516, 112);
             this.txtSHOW.TabIndex = 1;
             // 
             // Form1
